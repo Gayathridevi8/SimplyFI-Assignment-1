@@ -1,6 +1,6 @@
 # ReactJS Assignment 1 - Basic
 
-This project was developed as part of the ReactJS Frontend Developer assessment for SimplyFI.  
+This project was developed as part of the React.js Developer assignment for SimplyFI.  
 It replicates the **Assignment 1 demo app**, fetching user profile data from the `jsonplaceholder` API and displaying them with unique avatars. The app is built with **ReactJS** and styled using **Tailwind CSS**.
 
 ---
